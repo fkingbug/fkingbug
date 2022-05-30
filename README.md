@@ -1,5 +1,3 @@
-### I`m a junior FrontEnd developer
-
 ### Languages and Tools
 
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
