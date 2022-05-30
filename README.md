@@ -14,4 +14,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/bubbleNami)
 [![CodeWars](https://img.shields.io/badge/CodeWars-090909?style=for-the-badge&logo=CodeWars)](https://www.codewars.com/users/fkingbug)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FkingBug&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FkingBug&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
