@@ -1,3 +1,5 @@
+### I`m a junior FrontEnd developer
+
 ### Languages and Tools
 
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
@@ -8,3 +10,8 @@
 ![NodeJs](https://img.shields.io/badge/Node.Js-090909?style=for-the-badge&logo=Node.Js)
 ![MUI](https://img.shields.io/badge/MUI-090909?style=for-the-badge&logo=MUI)
 ![Git](https://img.shields.io/badge/Git_&_GitHub-090909?style=for-the-badge&logo=GitHub)
+
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/bubbleNami)
+[![CodeWars](https://img.shields.io/badge/CodeWars-090909?style=for-the-badge&logo=CodeWars)](https://www.codewars.com/users/fkingbug)
